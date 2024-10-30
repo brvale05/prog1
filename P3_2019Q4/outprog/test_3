@@ -1,0 +1,17 @@
+Alugado (cliente 10) -> CARRO (10): Palio de 5 passageiros e com 15000 km
+Alugado (cliente 20) -> CARRO (14): Uno de 5 passageiros e com 65000 km
+Alugado (cliente 30) -> CARRO (21): Corola de 5 passageiros e com 35000 km
+Alugado (cliente 40) -> CARRO (31): Pampa de 2 passageiros e com 45000 km
+Alugado (cliente 50) -> CARRO (43): Doblo de 7 passageiros e com 35000 km
+Devolvido (cliente 40) -> CARRO (31): Pampa de 2 passageiros e com 45000 km
+Alugado (cliente 60) -> CARRO (31): Pampa de 2 passageiros e com 45000 km
+Carro Indisponivel
+Devolvido (cliente 50) -> CARRO (43): Doblo de 7 passageiros e com 35000 km
+Alugado (cliente 80) -> CARRO (43): Doblo de 7 passageiros e com 35000 km
+Devolvido (cliente 20) -> CARRO (14): Uno de 5 passageiros e com 65000 km
+Devolvido (cliente 10) -> CARRO (10): Palio de 5 passageiros e com 15000 km
+Devolvido (cliente 30) -> CARRO (21): Corola de 5 passageiros e com 35000 km
+Carro Indisponivel
+Devolvido (cliente 80) -> CARRO (43): Doblo de 7 passageiros e com 35000 km
+Alugado (cliente 91) -> CARRO (43): Doblo de 7 passageiros e com 35000 km
+Alugado (cliente 100) -> CARRO (10): Palio de 5 passageiros e com 15000 km

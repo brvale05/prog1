@@ -1,0 +1,10 @@
++---------+
+|001      |
+|001      |
+|000      |
+-         -
+|M M      |
+|MMM      |
+|MMM      |
++---------+
+A posicao central do jogador iniciara em (2 6).

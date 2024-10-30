@@ -1,0 +1,17 @@
+Alugado (cliente 10) -> CARRO (10): Gol de 5 passageiros e com 15000 km
+Alugado (cliente 20) -> CARRO (11): Gol de 5 passageiros e com 12000 km
+Alugado (cliente 30) -> CARRO (44): Spin de 7 passageiros e com 15000 km
+Devolvido (cliente 10) -> CARRO (10): Gol de 5 passageiros e com 15000 km
+Alugado (cliente 40) -> CARRO (31): Saveiro de 2 passageiros e com 45000 km
+Carro Indisponivel
+Devolvido (cliente 40) -> CARRO (31): Saveiro de 2 passageiros e com 45000 km
+Alugado (cliente 55) -> CARRO (31): Saveiro de 2 passageiros e com 45000 km
+Carro Indisponivel
+Devolvido (cliente 30) -> CARRO (44): Spin de 7 passageiros e com 15000 km
+Alugado (cliente 70) -> CARRO (44): Spin de 7 passageiros e com 15000 km
+Carro Indisponivel
+Devolvido (cliente 70) -> CARRO (44): Spin de 7 passageiros e com 15000 km
+Carro Indisponivel
+Alugado (cliente 85) -> CARRO (44): Spin de 7 passageiros e com 15000 km
+Alugado (cliente 90) -> CARRO (10): Gol de 5 passageiros e com 15000 km
+Alugado (cliente 100) -> CARRO (43): Doblo de 7 passageiros e com 35000 km

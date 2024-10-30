@@ -1,0 +1,4 @@
+[1] Jogador colidiu na lateral esquerda.
+[6] Inimigo de indice 1 da fileira 2 colidiu na lateral direita.
+[13] Jogador colidiu na lateral esquerda.
+[13] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.

@@ -1,0 +1,10 @@
+[27] Inimigo de indice 1 da fileira 2 colidiu na lateral direita.
+[42] Jogador colidiu na lateral esquerda.
+[43] Jogador colidiu na lateral esquerda.
+[44] Jogador colidiu na lateral esquerda.
+[45] Jogador colidiu na lateral esquerda.
+[46] Jogador colidiu na lateral esquerda.
+[55] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[80] Jogador colidiu na lateral direita.
+[83] Inimigo de indice 1 da fileira 2 colidiu na lateral direita.
+[87] Inimigo de indice 1 da fileira 2 foi atingido na posicao (25 6).

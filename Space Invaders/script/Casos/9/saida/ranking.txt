@@ -1,0 +1,3 @@
+indice,fileira,linha,iteracao
+1,2,8,7
+1,1,9,43

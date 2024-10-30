@@ -1,0 +1,16 @@
+[4] Inimigo de indice 4 da fileira 1 colidiu na lateral direita.
+[12] Inimigo de indice 1 da fileira 3 colidiu na lateral esquerda.
+[20] Inimigo de indice 4 da fileira 1 colidiu na lateral direita.
+[28] Inimigo de indice 1 da fileira 3 colidiu na lateral esquerda.
+[36] Inimigo de indice 4 da fileira 1 colidiu na lateral direita.
+[44] Inimigo de indice 4 da fileira 1 foi atingido na posicao (92 12).
+[44] Inimigo de indice 1 da fileira 3 colidiu na lateral esquerda.
+[52] Inimigo de indice 3 da fileira 1 foi atingido na posicao (84 13).
+[60] Inimigo de indice 2 da fileira 1 foi atingido na posicao (77 13).
+[68] Inimigo de indice 1 da fileira 1 foi atingido na posicao (70 13).
+[98] Inimigo de indice 3 da fileira 3 foi atingido na posicao (76 9).
+[112] Inimigo de indice 4 da fileira 3 colidiu na lateral direita.
+[170] Inimigo de indice 4 da fileira 3 foi atingido na posicao (41 9).
+[180] Inimigo de indice 1 da fileira 3 colidiu na lateral esquerda.
+[190] Inimigo de indice 2 da fileira 3 foi atingido na posicao (22 9).
+[195] Inimigo de indice 1 da fileira 3 foi atingido na posicao (17 10).

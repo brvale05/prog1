@@ -1,0 +1,4 @@
+Numero total de movimentos (A ou D): 152;
+Numero de tiros efetivos: 14;
+Numero de tiros que nao acertaram: 5;
+Numero de descidas dos inimigos: 8;

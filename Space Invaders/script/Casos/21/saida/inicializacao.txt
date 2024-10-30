@@ -1,0 +1,15 @@
++--------------------+
+|        sce         |
+|        r D         |
+|        evi         |
+|        sce         |
+|        r D         |
+|        evi         |
+|        sce         |
+|        r D         |
+-        evi         -
+|        M M         |
+|        MMM         |
+|        MMM         |
++--------------------+
+A posicao central do jogador iniciara em (10 11).

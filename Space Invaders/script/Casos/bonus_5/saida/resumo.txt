@@ -1,0 +1,34 @@
+[7] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[7] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[21] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[35] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[35] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[49] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[63] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[63] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[66] Inimigo de indice 2 da fileira 1 foi atingido na posicao (37 9).
+[77] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[81] Inimigo de indice 3 da fileira 3 foi atingido na posicao (50 24).
+[91] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[91] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[105] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[110] Inimigo de indice 3 da fileira 2 foi atingido na posicao (47 17).
+[119] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[119] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[133] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[147] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[147] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[161] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[175] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[175] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[189] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[200] Inimigo de indice 1 da fileira 3 foi atingido na posicao (15 32).
+[203] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[203] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[217] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[231] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[231] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[245] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[259] Inimigo de indice 5 da fileira 1 colidiu na lateral direita.
+[259] Inimigo de indice 5 da fileira 3 colidiu na lateral direita.
+[273] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.

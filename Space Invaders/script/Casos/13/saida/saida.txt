@@ -1,0 +1,31 @@
+Pontos: 0 | Iteracoes: 0
++---+
+|001|
+|001|
+|000|
+-   -
+|M M|
+|MMM|
+|MMM|
++---+
+Pontos: 0 | Iteracoes: 1
++---+
+|   |
+|001|
+|001|
+-000-
+|M M|
+|MMM|
+|MMM|
++---+
+Pontos: 0 | Iteracoes: 2
++---+
+|   |
+|   |
+|001|
+-001-
+|000|
+|MMM|
+|MMM|
++---+
+Você perdeu, tente novamente!
